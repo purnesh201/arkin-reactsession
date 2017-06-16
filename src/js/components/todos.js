@@ -65,7 +65,6 @@ class TodoApp extends React.Component {
   render() {
     return (
       <div>
-        <Nav></Nav>
         <h3 className="apptitle">MY TO DO LIST</h3>
         <div className="row">
           <div className="col-md-3">
